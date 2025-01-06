@@ -2,7 +2,7 @@
 - 👀 I’m interested in next.js
 - 🌱 I’m currently learning frontend web develop
 - 💞️ I am looking for an internship position in a company
-- my arzdigital project https://arzdigital123.liara.run/
+- my digikala project https://digikala-project.vercel.app/
 
 <!---
 mh-morowati/mh-morowati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
