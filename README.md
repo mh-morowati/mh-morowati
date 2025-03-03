@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mh-morowati
+- 👋 Hi, I’m muhammad morowati
 - 👀 I’m interested in next.js
 - 🌱 I’m currently learning frontend web develop
-- 💞️ I am looking for an internship position in a company
+- 💞️ I am looking for an position in a company
 
 
 <!---
